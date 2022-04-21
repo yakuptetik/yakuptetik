@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yakuptetik
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Yakup Tetik
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning Html,Css,Js
 
 
 <!---
