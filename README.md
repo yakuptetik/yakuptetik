@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Yakup Tetik
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning Html,Css,Js
 
 
 <!---
