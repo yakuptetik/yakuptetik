@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Yakup <br>Frontend developer from Turkey</h1>
-
-
 
 
 <div>
