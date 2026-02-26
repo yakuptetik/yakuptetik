@@ -22,7 +22,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/yakuptetik/yakuptetik/output/snake.svg" alt="Snake animation" />
+1. <img src="https://raw.githubusercontent.com/yakuptetik/yakuptetik/output/snake.svg" alt="Snake animation" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yakuptetik/yakuptetik/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yakuptetik/yakuptetik/output/pacman-contribution-graph.svg">
