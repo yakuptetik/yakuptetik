@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yakup <br>Frontend developer from Turkey</h1>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
 
+
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=180&section=header&reversal=false&text=Hi%20%F0%9F%91%8B,%20I'm%20Yakup%20&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&stroke=-&animation=fadeIn&desc=Frontend%20developer%20from%20Turkey&descSize=50&descAlign=50&descAlignY=60&textBg=false&color=gradient"  />
+</div>
 
 ###
 
