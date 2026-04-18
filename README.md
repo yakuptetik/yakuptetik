@@ -1,10 +1,7 @@
 
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=180&section=header&reversal=false&text=Hi%20%F0%9F%91%8B,%20I'm%20Yakup%20&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&stroke=-&animation=fadeIn&desc=Frontend%20developer%20from%20Turkey&descSize=50&descAlign=50&descAlignY=60&textBg=false&color=gradient"  />
-</div>
 
-###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yakuptetik/" target="_blank">
